@@ -1,6 +1,7 @@
 public class gitex {
 	public static void main(String [] args){
 		sayHello();
+		sayBye();
 	}
 
 	public static void sayHello(){
